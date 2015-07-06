@@ -1,0 +1,1 @@
+a  ab  aba  abc  abba  abcba  abcdefghijkkjihgfedcba  abcdefghijkNOkjihgfedcba
